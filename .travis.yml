@@ -45,7 +45,7 @@ script:
 notification:
   email:
     recipients:
-      - dev@kylin.apache.org
+      - 641507577@qq.com
     on_failure: always
 
 after_success:
